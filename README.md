@@ -1,4 +1,4 @@
-# Fastify TypeScript Template
+# Fastify API
 
 Este é um template para criar APIs utilizando Fastify com TypeScript. Ele já vem configurado com autoload de rotas, documentação Swagger e reinicialização automática usando `tsx`.
 
