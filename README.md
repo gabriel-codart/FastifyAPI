@@ -24,9 +24,7 @@ Este é um template para criar APIs utilizando Fastify com TypeScript. Ele já v
     ```bash
     npm install
 
-## Desenvolvimento
-
-Para iniciar o servidor em modo de desenvolvimento com reinicialização automática, utilize o comando:
+4. Inicie o servidor:
 
     ```bash
     npm run dev
@@ -35,15 +33,16 @@ O servidor será iniciado em http://localhost:2020 e a documentação Swagger es
 
 ## Estrutura do Projeto
 
-    ```plaintext
-    src
-  ├── controllers
-  │   └── itemsController.ts  # Controladores para manipulação de lógica de negócios
-  ├── models
-  │   └── item.ts             # Modelos de dados
-  ├── routes
-  │   └── items.ts            # Definição das rotas
-  └── index.ts                # Configuração principal do Fastify
+```plaintext
+src
+├── controllers
+│   └── itemsController.ts  # Controladores para manipulação de lógica de negócios
+├── models
+│   └── item.ts             # Modelos de dados
+├── routes
+│   └── items.ts            # Definição das rotas
+└── index.ts                # Configuração principal do Fastify
+```
 
 ## Documentação
 
