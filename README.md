@@ -17,7 +17,7 @@ Este é um template para criar APIs utilizando Fastify com TypeScript. Ele já v
 2. Navegue até o diretório do projeto:
 
     ```bash
-    cd fastify-template
+    cd "FastifyAPI"
 
 3. Instale as dependências:
 
