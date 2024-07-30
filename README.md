@@ -14,7 +14,12 @@ Este é um template para criar APIs utilizando Fastify com TypeScript. Ele já v
     ```bash
     npm install
 
-2. Inicie o servidor:
+2. Para iniciar o Swagger (documentação da API):
+
+    ```bash
+    npm run swagger
+
+3. Inicie o servidor:
 
     ```bash
     npm run dev
