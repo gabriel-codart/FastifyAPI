@@ -9,22 +9,12 @@ Este é um template para criar APIs utilizando Fastify com TypeScript. Ele já v
 
 ## Instalação
 
-1. Clone o repositório:
-
-    ```bash
-    git clone https://github.com/gabriel-codart/FastifyAPI.git
-
-2. Navegue até o diretório do projeto:
-
-    ```bash
-    cd "FastifyAPI"
-
-3. Instale as dependências:
+1. Instale as dependências:
 
     ```bash
     npm install
 
-4. Inicie o servidor:
+2. Inicie o servidor:
 
     ```bash
     npm run dev
