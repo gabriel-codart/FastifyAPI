@@ -26,12 +26,12 @@ O servidor será iniciado em http://localhost:2020 e a documentação Swagger es
 ```plaintext
 src
 ├── controllers
-│   └── itemsController.ts  # Controladores para manipulação de lógica de negócios
+│   └── item.ts  # Controladores para manipulação de lógica de negócios
 ├── models
-│   └── item.ts             # Modelos de dados
+│   └── item.ts  # Modelos de dados
 ├── routes
-│   └── items.ts            # Definição das rotas
-└── index.ts                # Configuração principal do Fastify
+│   └── item.ts  # Definição das rotas
+└── index.ts     # Configuração principal do Fastify
 ```
 
 ## Documentação
